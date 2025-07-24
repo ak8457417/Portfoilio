@@ -6,12 +6,12 @@ import arrow_icon from "../../assets/arrow_icon.svg"
 
 const MyWork = () => {
     return (
-        <div id="work" className="mywork">
+        <div id="work" className="gallery">
             <div className="mywork-title">
                 <h1>My Latest Work</h1>
                 <img src={theme_pattern}/>
             </div>
-            <div className="mywork-container">
+            <div className="gallery-container">
                 {mywork_data.map((work, i) => {
                     return <img src={work.w_img} key={i} alt="" />
                 })}

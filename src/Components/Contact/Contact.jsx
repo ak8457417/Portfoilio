@@ -39,7 +39,7 @@ const Contact = () => {
             <div className="contact-section">
                 <div className="contact-left">
                     <h1>Let's talk</h1>
-                    <p>I am an experienced Frontend Developer with over a decade of professional expertise in th field. I has the privilege of collaborating with prestigious organizations.</p>
+                    <p>I am a full stack web developer from Pune, India with 2+ years of experience in multiple web technologies.</p>
                     <div className="contact-details">
                         <div className="contact-detail">
                             <img src={mail_icon}/>
@@ -47,7 +47,7 @@ const Contact = () => {
                         </div>
                         <div className="contact-detail">
                             <img src={call_icon}/>
-                            <p>+91 1234567890</p>
+                            <p>+91 8530283963</p>
                         </div>
                         <div className="contact-detail">
                             <img src={location_icon}/>

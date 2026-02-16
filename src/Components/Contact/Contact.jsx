@@ -39,7 +39,6 @@ const Contact = () => {
             <div className="contact-section">
                 <div className="contact-left">
                     <h1>Let's talk</h1>
-                    <p>I am a full stack web developer from Pune, India with 2+ years of experience in multiple web technologies.</p>
                     <div className="contact-details">
                         <div className="contact-detail">
                             <img src={mail_icon}/>

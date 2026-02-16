@@ -22,9 +22,7 @@ const About = () => {
                 </div>
                 <div className="about-right">
                     <div className="about-para">
-                        <p>I am an experienced Frontend Developer with over 2 years of professional expertise in th
-                            field. Throughout my career, I has the privilege of collaborating with prestigious
-                            organizations, contributing to their success and growth.</p>
+                        <p>I am a Computer Engineering student at VIIT Pune (CGPA 9.28) passionate about building real-world software systems. My work focuses on full-stack development and applied AI, where I develop scalable MERN applications, intelligent recommendation platforms, and real-time backend services.</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill">
@@ -56,8 +54,8 @@ const About = () => {
             </div>
             <div className="about-achievements">
                 <div className="about-achievement">
-                    <h1>2+</h1>
-                    <p>YEARS OF EXPERIENCE</p>
+                    <h1>9.28</h1>
+                    <p>CGPA</p>
                 </div>
                 <hr/>
                 <div className="about-achievement">
@@ -66,8 +64,8 @@ const About = () => {
                 </div>
                 <hr/>
                 <div className="about-achievement">
-                    <h1>15+</h1>
-                    <p>HAPPY CLIENTS</p>
+                    <h1>3x</h1>
+                    <p>HACKATHON WINNER</p>
                 </div>
             </div>
         </div>
